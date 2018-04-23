@@ -1,0 +1,38 @@
+.container {
+  border: 1px solid #f2f2f2;
+}
+
+.cover {
+  background-image: url("image.png");
+  padding: 50px 0;
+}
+
+body, h2, h6 {
+  color: #595959;
+}
+
+.col-sm-4, .col-sm-8 {
+  padding: 50px 0;
+}
+
+.col-sm-4 {
+  padding-left: 30px;
+}
+
+em {
+  color: #7070fa;
+}
+
+.btn-primary {
+  color: #8c8c8c;
+  background-color: transparent;
+  border: 2px solid #8c8c8c;
+  border-radius: 0;
+}
+
+.btn-primary:hover {
+  color: #7070fa;
+  background-color: transparent;
+  border: 2px solid #7070fa;
+  border-radius: 0;
+}
